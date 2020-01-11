@@ -1,4 +1,3 @@
-package ass1.olee;
 
 /**
  * This class represents a Registrar to calculate missing grade format and GPA of 
