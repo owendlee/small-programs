@@ -1,4 +1,4 @@
-package ass1.olee;
+
 /**
  * This Class represents results from a class on a students transcript
  * @author Owen Lee // 3595946
