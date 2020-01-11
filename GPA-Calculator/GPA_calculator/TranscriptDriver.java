@@ -1,4 +1,3 @@
-package ass1.olee;
 /**
 *Driver program calculate GPA
 *@author Owen Lee // 3595946
